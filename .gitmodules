@@ -1,0 +1,3 @@
+[submodule "datasciencecoursera"]
+	path = datasciencecoursera
+	url = https://github.com/sp1r0s/datasciencecoursera.git
